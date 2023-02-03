@@ -1,3 +1,3 @@
-from user_interface import menu
+from controller import *
 
-menu()
+start()
